@@ -1,4 +1,17 @@
-# Data Scientist Salary Pojector 
-# Gradio
-Data Scientist Salary Projector: 
-https://2b37c9460bb393e49c.gradio.live 
+# 💼 Data Scientist Salary Projector
+
+🔗 Live Demo: https://2b37c9460bb393e49c.gradio.live 
+👉 Launch the App
+
+🚀 Project Overview
+This project uses a trained machine learning model to predict the estimated salary of a data scientist based on:
+
+🎓 Education level
+
+🌎 Country of residence
+
+🧠 Years of coding experience
+
+🧰 Programming skills (Python, SQL, Java, Go)
+
+Built with Gradio for a smooth, interactive web interface and powered by numpy. 
