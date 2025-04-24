@@ -14,4 +14,6 @@ This project uses a trained machine learning model to predict the estimated sala
 
 🧰 Programming skills (Python, SQL, Java, Go)
 
+and more!
+
 Built with Gradio for a smooth, interactive web interface and powered by numpy. 
