@@ -14,6 +14,14 @@ This project uses a trained machine learning model to predict the estimated sala
 
 🧰 Programming skills (Python, SQL, Java, Go)
 
-AND MORE!
+Variables Used: 
+
+- Years of Machine Learning Experience
+- Company Size
+- Country of Residence
+- Current Job Title
+- Employer Industry
+- Machine Learning Production Experience
+- Machine Learning & Cloud Spending in the Last 5 Years
 
 Built with Gradio for a smooth, interactive web interface and powered by numpy. 
